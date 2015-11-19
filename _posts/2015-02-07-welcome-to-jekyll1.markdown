@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-02-07 23:25:49
-cover: "{{site.baseurl}}/img/2.jpg"
+title:  "Volkswagen Tiguan - 2.0 TSI 16V Turbo Gasolina 4p TIPTRONIC - Automático - Prata"
+date:   R$ 75.900,00
+cover: "{{site.baseurl}}/img/1.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
